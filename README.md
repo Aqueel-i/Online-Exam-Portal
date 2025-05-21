@@ -7,6 +7,13 @@ This is a simple React + TypeScript authentication example demonstrating:
 * Async login simulation with fake/mock users
 * Role-based redirection after login using React Router
 * Clean UI/UX using Tailwind CSS and Framer Motion animations
+  
+---
+
+## Live Demo
+
+Try the app live at:  
+[https://your-deployment-url.com]([https://your-deployment-url.com](https://online-exam-portal-bice.vercel.app/login))
 
 ---
 
