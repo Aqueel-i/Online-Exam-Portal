@@ -13,7 +13,7 @@ This is a simple React + TypeScript authentication example demonstrating:
 ## Live Demo
 
 Try the app live at:  
-[https://online-exam-portal-bice.vercel.app/login](https://online-exam-portal-bice.vercel.app/login)
+[https://online-exam-portal-bice.vercel.app](https://online-exam-portal-bice.vercel.app)
 
 ---
 
